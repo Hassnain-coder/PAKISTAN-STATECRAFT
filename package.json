@@ -1,0 +1,9 @@
+{
+  "name": "pakistan-statecraft",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A Pakistan government and geopolitical simulation prototype",
+  "scripts": {"build": "node build.mjs"},
+  "dependencies": {"@capacitor/android": "^7.4.3", "@capacitor/core": "^7.4.3"},
+  "devDependencies": {"@capacitor/cli": "^7.4.3"}
+}

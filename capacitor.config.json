@@ -1,0 +1,6 @@
+{
+  "appId": "com.statecraft.pakistan",
+  "appName": "Pakistan Statecraft",
+  "webDir": "dist",
+  "server": { "androidScheme": "https" }
+}
